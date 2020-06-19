@@ -4,11 +4,9 @@
     <meta charset="utf-8">
     <title>Prueba</title>
     <link rel="stylesheet" href="./estilos.css" type="text/css">
-    <!--<script
-			  src="https://code.jquery.com/jquery-3.4.1.min.js"
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"
 			  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-			  crossorigin="anonymous"></script>-->
-    <script src="./jquery.js"></script>
+			  crossorigin="anonymous"></script>
   </head>
   <body style="background-color:#f2f2f2;">
     <main>
